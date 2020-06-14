@@ -19,6 +19,9 @@
 ## :rocket:  <br />Sobre o desafio
 
 Desafio para melhorar a vida de caminhoneiros na estrada.
+Para o perfeito funcionamento, você necessitará de db mongo.
+Depois de clonar o repositório você pode dar um : npm i
+npm start ou npm run dev caso utilize o nodemon.
 
 
 ## 📅<br /> Entrega

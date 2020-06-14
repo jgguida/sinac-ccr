@@ -21,7 +21,7 @@
 Desafio para melhorar a vida de caminhoneiros na estrada.
 
 
-## 📅 Entrega
+## 📅<br /> Entrega
 
 Esse desafio 
 

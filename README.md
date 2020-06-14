@@ -14,12 +14,6 @@
   <a href="">
     <img alt="Made by time 269" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
   </a>
-
-  <img alt="License" src="">
-
-  <a href="">
-    <img alt="Stargazers" src="">
-  </a>
 </p>
 
 ## :rocket: Sobre o desafio

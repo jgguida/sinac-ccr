@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="GoStack" src="" width="200px" />
+    <img alt="CCR" src="" width="200px" />
 </h1>
 
 <h3 align="center">

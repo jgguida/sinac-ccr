@@ -22,7 +22,7 @@ Desafio para melhorar a vida de caminhoneiros na estrada.
 
 
 ## 📅<br /> Entrega
-
+14/06/2020
 Esse desafio 
 
 --

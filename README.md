@@ -12,7 +12,7 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafio-01?color=%2304D361">
 
   <a href="">
-    <img alt="Made by time 269" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
+    <img alt="Made by time 269" src="https://img.shields.io/badge/made%20by-time269-%2304D361">
   </a>
 </p>
 

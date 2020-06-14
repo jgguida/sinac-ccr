@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="CCR" src="https://imgur.com/xC3FBq8" width="200px" />
+    <img alt="CCR" src="https://i.imgur.com/xC3FBq8.png" width="200px" />
 </h1>
 
 <h3 align="center">
